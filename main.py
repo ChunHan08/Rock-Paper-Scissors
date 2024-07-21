@@ -37,17 +37,17 @@ while player == False:
             win()  
     elif player == "p":
         if computer == "s":
-            message = "You lose!,Scissors cuts Rock"
+            message = "hahahhahah You lose!,Scissors cuts Rock"
             lose()
         else:
-            message = "You win!, Scissors cuts Paper"
+            message = "YESSSS You win!, Scissors cuts Paper"
             win()
     elif player == "s":
         if computer == "r":
-            message = "You lose!,Paper covers Rock"
+            message = " BOOOOO You lose!,Paper covers Rock"
             lose()
         else:
-            message = "You win!, Scissors cuts Paper"
+            message = "HAHAHHA You win!, Scissors cuts Paper"
             win()
     elif player == "reset":
       You=1*0
